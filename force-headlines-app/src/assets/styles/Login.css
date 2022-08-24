@@ -1,0 +1,58 @@
+.Login {
+  width: 100%;
+  height: 100%;
+}
+
+.Login-header {
+  color: aliceblue;
+  font-weight: 600;
+  background: #f04142;
+}
+
+.Login-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  height: calc(90%);
+  margin: auto;
+}
+
+.Login-logo {
+  position: relative;
+  top: -0.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.Login-code {
+  position: relative;
+  top: 0.01rem;
+}
+
+.Login-code-active {
+  color: #cccccc;
+}
+
+.adm-list-default .adm-list-body {
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.adm-list-body-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 120px;
+}
+
+.adm-form-item.adm-form-item-horizontal.adm-list-item {
+  --prefix-width: auto;
+  line-height: 0;
+}
+
+.adm-form-footer {
+  position: relative;
+  top: 0.8rem;
+}

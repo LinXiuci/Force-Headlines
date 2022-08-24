@@ -1,11 +1,6 @@
 /* 全局样式  */
 
 :root {
-  --force-geek-color-primary: #fc6627;
-  --force-geek-font-family: 'PingFangSC-Regular';
-  --list-item-active: #fc6627;
-  --tabs-item-active: #fc6627;
-
 
   --font-size-10: 0.10rem;
   --font-size-11: 0.11rem;
